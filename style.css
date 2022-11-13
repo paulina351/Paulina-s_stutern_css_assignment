@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+}
+
+section {
+    padding: 10px;
+}
+
+/*h1 .comment-1 {
+    font-size: 18px;
+}*/
+
+div .section1 {
+    color: green;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+/*h1 .comment-2 {
+    font-size: 18px;
+}*/
+
+div .section2 {
+    color: red;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/*h1 .comment-3 {
+    font-size: 18px;
+}*/
+
+div .section3 {
+    color: blue;
+    font-size: 14px;
+    font-weight: 400;
+}
